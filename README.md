@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Irene Huynh. I am in the final week of STA302. 👋
 
 <!--
 **IreneeeH/IreneeeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
