@@ -1,5 +1,4 @@
-### Hi, my name is Irene Huynh. 👋
-Enjoy!
+### Hi👋, enjoy browsing my repos 😊!
 <!--
 **IreneeeH/IreneeeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
